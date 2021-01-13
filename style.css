@@ -1,6 +1,7 @@
-#header-navbar{
+#header-navbaar{
     margin: 20px;
-    color: blueviolet;
+    color: black;
+    float: inline-end;
 }
 code{
     background-color: rgb(25, 216, 66);
