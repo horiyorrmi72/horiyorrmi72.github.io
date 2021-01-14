@@ -36,7 +36,10 @@ aside nav a {
         background-color: cornflowerblue;
     }
     aside{
-        width: 
+        width: auto;
+        overflow-x: auto;
+        overflow-y: auto;
+        word-wrap: break-word;
     }
      /* #navbar{
         float: left;
