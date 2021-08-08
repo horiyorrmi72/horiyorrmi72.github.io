@@ -147,40 +147,7 @@
     justify-content: space-around;
     }
 
-    .home-footer {
-        width: 100%;
-        margin-top: 30px;
-        float: left;
-        position: relative;
-        top: 90%;
-        
-    }
-    .registered_org{
-        width: 90%;
-        height: auto;
-        margin: 20px;
-        display:flex;
-        vertical-align: middle;
-        align-items: center;
-               
-    } 
-    .organisations_in_support{
-        margin: 10px;
-        
-        
-    }
-    .org{
-        width: 100%;
-        height: auto;
-        display: grid;
-        grid-gap: 5px;
-        /* grid-template-columns: repeat(6, calc(100% - 5px)); */
-        grid-template-columns: repeat(5, auto);
-        grid-template-rows: minmax(150px, 1fr);
-    
-        padding:0;
-    }
-
+   
     .dev_cont{
         background-color: yellow;
         width: 100%;
