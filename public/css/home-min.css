@@ -253,32 +253,37 @@ img {
         .container{
             display:inline-table;
             width: 85%;
-            height: 250px;
+            height: 270px;
             align-items: center;
             justify-content: center;
             
         
         }
         #briefs{
-            margin: 3em;
-            padding: 2em;
-            width: 100%;
-            display: flexbox;
+            margin: auto;
+            padding: 0;
+            width: 85%;
+            height: auto;
+            position: relative;
+            left: 10%;
+            right: 10%;
          }  
          .brief_mission_header, .brief_vision_header, .brief_about_header{
              width: 75%;
             text-align: center;
         }
-        .brief_about_paragh{
+        .brief_about_paragh, .brief_mission_paragh, .brief_vision_paragh{
             text-align: center;
-            overflow-wrap: break-word;
             width: 75%;
+            height: auto;
+            font-size: medium;
         }
+    
         .brief_info_data_link{
             background-color: red;
             width:80%;
             height: 40px;
-            margin-top: 20px; 
+            margin-top: 10px; 
             box-sizing: border-box;
         }
 .total_activities{
@@ -297,13 +302,119 @@ img {
    .standard_pix{
        display: none;
    } 
+   .membership .contact_from_home{
+       width: 100%;
+   }
    .member_ask_container{
-    margin-right: 45px;
-
+   width: 100%;
+   margin: auto;
+   padding: 0;
    }  
+   .member_ask{
+       width: 100%;
+       margin: auto;
+       padding: 0;
+       position: relative;
+       right: 10%;
+   }
+   .offer_hand{
+       margin: auto;
+       padding: 0;
+       position: relative;
+       right: 10%;
+   }
+   .membership_link{
+       margin-top: 10%;
+       position: relative;
+       right: 10%;
+   }
+   .home_slide{
+       width: 100%;
+       margin: auto;
+       padding: 0;
+
+   }
+   .registered_org{
+       width: 100%;
+       margin: auto;
+       padding: 0;
+
+   }
+   .org{
+       display: block;
+       width: 100%;
+       height: auto;
+       position: relative;
+       right: 4%;
+   }
+.organisations_in_support{
+    width: 70%;
+    display:none;
+    
+}
    
 }
-@media (max-height: 768), screen and (orientation: portrait) { 
-    
-    
+@media only screen and (max-width:500px){
+    .home_page_activities{
+        width: 100%;
+        height: auto;
     }
+    .total_activities{
+        width: 100%;
+        height: 250px;
+        font-size: small;
+        margin: auto;
+        padding: 0;
+    }
+    .activity-header{
+        margin: auto;
+        padding: 0;
+        width: 100%;
+    }
+    .activities-paragh{
+        width: 100%;
+
+    }
+    .activities{
+        list-style-type:decimal-leading-zero;
+    }
+    .Standards{
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+    }
+    .standard_container{
+        width: 100%;
+        height: auto;
+        margin: auto;
+        
+        
+    }
+    .standard-paragh{
+        width: 100%;
+        font-size: medium;
+        line-height: 1em;
+    }
+.membership{
+    width: 100%;
+    height: auto;
+}    
+.membership > .contact_from_home{
+    width: 100%;
+    height: auto;
+
+}
+.member_ask_container{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    padding: 0;
+    position: relative;
+    right: 5%;
+}
+.member_ask{
+    margin: auto;
+    padding:0;
+    width: 90%;
+}
+}
