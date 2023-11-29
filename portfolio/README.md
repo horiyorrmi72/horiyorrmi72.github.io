@@ -1,21 +1,27 @@
 # Yusuf Ridwan Portfolio
 
-Welcome to my portfolio! This repository showcases my projects, skills, and experiences in the field of bacckend development, web apps.
+Welcome to my captivating world of code and innovation! This repository is a testament to my prowess in backend development and crafting impactful web applications.
 
 ## About Me
 
-I'm passionate about solving problems. I enjoy reading codes, debugging code. With 2 years of experience, I've worked on various projects focusing on web apps and web developments.
+Greetings! I'm Yusuf Ridwan, an enthusiastic problem-solver who thrives on deciphering code intricacies. Over 2 years, I've honed my skills in creating robust web apps and delving deep into the world of web development.
+
+
 
 ## Projects
 
-### Project Name 1
-- Description: Brief overview of the project.
-- Technologies Used: List of technologies, tools, or languages used.
+### Personal Portfolio
+- Description: A glimpse into my personal showcase.
+- Technologies Used: HTML, CSS, JavaScript, jQuery....
 - [Link to Project]
 
-### Project Name 2
+### GetLinked website
 - Description: Brief overview of the project.
-- Technologies Used: List of technologies, tools, or languages used.
+- Technologies Used: Angular Js, CSS, HTML.
+
+### CV Builder
+- Description: Crafting professional trajectories.
+- Technologies Used: Angular JS, CSS, HTML,material UI
 - [Link to Project Repository ]
 
 
@@ -23,17 +29,26 @@ I'm passionate about solving problems. I enjoy reading codes, debugging code. Wi
 
 - **Programming Languages:** Html, CSS, JavaScript, NodeJs,Python .
 - **Frameworks & Libraries:** Flask, Django, Express Js, Angular Js.
-- **Tools & Technologies:** Mention relevant tools or technologies you're comfortable with.
+- **Tools & Technologies:** A curated collection of proficiently handled tools.
 
 ## Experience
 
 ### 5StarMums (Backend Engineer/Developer)
 - **Duration:** 2023 - Current
-- **Description:** Brief description of your role and responsibilities.
+- **Description:** 
+    -  Orchestrating backend functionalities and architecting robust infrastructures to empower 5StarMums' platform.
+    - optimizing system performance and scalability. 
+    - orchestrating the server-side logic, crafting API endpoints, and ensuring seamless data flow within the platform. Collaborating closely with front-end developers.
+    - Beyond development, I meticulously document backend processes, API functionalities, and system architectures. This comprehensive documentation not only aids in team alignment but also serves as a valuable resource for future reference and onboarding. Moreover, I conduct rigorous testing and debugging, adhering to industry best practices to ensure a seamless and secure application environment. My dedication extends to fortifying system security measures, safeguarding sensitive user data, and maintaining the integrity of our platform's infrastructure.
 
 ### ALX  (Junior Developer/Student)
 - **Duration:** 2021 - Month/2022
-- **Description:** Brief description of your role and responsibilities.
+- **Description:** 
+    - During my tenure at ALX, I embarked on a transformative journey honing foundational skills in backend development. 
+    - Collaborating within a dynamic team.
+    - I actively contributed to the creation of innovative solutions and participated in the development lifecycle. My responsibilities encompassed not only coding and troubleshooting but also delving into documentation practices.
+    - Additionally, I engaged in coding sessions, enhancing my proficiency in backend technologies, and absorbed valuable insights into industry best practices. This immersive experience allowed me to grasp the significance of comprehensive documentation in maintaining robust codebases and facilitating knowledge transfer within the team.
+
 
 <!-- Add more experiences as necessary -->
 
