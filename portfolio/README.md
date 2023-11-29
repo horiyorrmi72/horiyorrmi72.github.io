@@ -50,7 +50,7 @@ Greetings! I'm Yusuf Ridwan, an enthusiastic problem-solver who thrives on decip
     - Additionally, I engaged in coding sessions, enhancing my proficiency in backend technologies, and absorbed valuable insights into industry best practices. This immersive experience allowed me to grasp the significance of comprehensive documentation in maintaining robust codebases and facilitating knowledge transfer within the team.
 
 
-<!-- Add more experiences as necessary -->
+<!-- experiences ends here -->
 
 ## Education
 
