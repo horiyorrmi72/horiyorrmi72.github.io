@@ -15,7 +15,7 @@ document
       message: message,
     };
 
-    fetch("https://portfolio-contact-form-mailer.vercel.app/submit-form", {
+    fetch(" https://sore-teal-snapper-fez.cyclic.app/submit-form", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       mode: "cors",
