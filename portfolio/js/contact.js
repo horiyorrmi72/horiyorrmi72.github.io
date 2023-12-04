@@ -30,6 +30,6 @@ document
         document.querySelector('.form [name="message"]').value = "";
       })
       .catch((err) => {
-        console.log(err);
+        console.log('Error:',err);
       });
   });
