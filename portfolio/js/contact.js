@@ -23,7 +23,11 @@ document
     })
       .then((response) => response.json())
       .then((data) => {
-        console.log(data);
+        // console.log(data);
+        document.querySelector('.form [name="name"]').value = "";
+        document.querySelector('.form [name="subject"]').value = "";
+        document.querySelector('.form [name="email"]').value = "";
+        document.querySelector('.form [name="message"]').value = "";
       })
       .catch((err) => {
         console.log(err);
